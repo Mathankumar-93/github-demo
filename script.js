@@ -1,1 +1,1 @@
-console.log("Hi from console");
+console.log("console changed");
